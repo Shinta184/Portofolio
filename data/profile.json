@@ -1,0 +1,33 @@
+{
+    "name": "Shinta Kurnia Apritasari - Electronic Engineering Student",
+    "description": "Collage student of D3 Electronics Engineering, Semarang State Polytechnic",
+    "profileImage": "images/profile.jpg",
+    "email": "shintakury@gmail.com",
+    "phone": "+62 (821) 383-09340",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/shinta-kurnia-apritasari-5a2052260/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Shinta184"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/shinta_arts"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi"},
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+        {"name": "Hardware Programming", "icon": "fas fa-c"},
+        {"name": "Project Management", "icon": "fas fa-list-check"},
+        {"name": "Foreign Languages", "icon": "fas fa-language"}
+    ]
+}

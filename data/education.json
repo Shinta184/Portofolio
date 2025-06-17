@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Associate of Engineering in Electrical Engineering",
+        "year": "2022 - Present",
+        "description": "GPA 3.78 of 4"
+    },
+    {
+        "university": "SMK NEGERI 4 SEMARANG",
+		"logo": "images/smk4-logo.png",
+        "major": "Industrial Electronics Engineering",
+        "year": "2019 - 2022",
+        "description": "..."
+    }
+]

@@ -1,0 +1,20 @@
+[
+	{
+        "title": "Jendela Otomatis dengan Sensor Cahaya dan Suhu Berbasis Internet of Things (IoT) Menggunakan ESP8266",
+        "year": "2024",
+        "description": "A window that can open and close automatically based on the temperature in the room and send messages to Telegram based on the window's condition.",
+        "image": "images/project4.jpeg"
+    },
+    {
+        "title": "Line Follower",
+        "year": "2024",
+        "description": "Creating a line-following robot.",
+        "image": "images/project3.jpeg"
+    },
+	{
+        "title": "Monitoring Hidroponik",
+        "year": "2023",
+        "description": "A device that can monitor water levels in hydroponic systems and send messages to Telegram regarding the status of the hydroponic system.",
+        "image": "images/project2.png"
+    }
+]
